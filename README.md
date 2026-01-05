@@ -1,4 +1,4 @@
-# Bulk Image to JPG Converter (Python)
+# Stop Manually Converting Images — Use This Python JPG Converter
 
 A simple Python script to convert multiple images into high-quality JPG format without noticeable quality loss.  
 Supports common formats like PNG, WEBP, TIFF, BMP, and JPEG.
